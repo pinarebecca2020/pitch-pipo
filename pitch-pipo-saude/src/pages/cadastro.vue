@@ -1,5 +1,7 @@
 <template>
-  <v-form><v-select></v-select></v-form>
+<v-container>
+  <h2>Registre funcionário</h2>
+  <RegisterEmployeeForm /></v-container>
 </template>
 
 
